@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/arasharora2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arasharora2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arash-arora-ab344518b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-arora-ab344518b" height="30" width="40" /></a>
-<a href="https://codesandbox.com/arash_arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="arash_arora" height="30" width="40" /></a>
+<a href="https://codesandbox.com/arash-arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="arash_arora" height="30" width="40" /></a>
 <a href="https://fb.com/arasharora.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arasharora.5" height="30" width="40" /></a>
 <a href="https://instagram.com/arash_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arash_arora" height="30" width="40" /></a>
 <a href="https://medium.com/@arasharora2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arasharora2001" height="30" width="40" /></a>
