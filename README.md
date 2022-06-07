@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Penetration Testing**
 
-- 👯 Lately I developed [Hulu Clone](https://arash-hulu.vercel.app)
+- 👯 Recently I developed [Hulu Clone](https://arash-hulu.vercel.app)
 
 - 🤝 I even developed [Airbnb Clone](https://arash-airbnb-demo.vercel.app)
 
