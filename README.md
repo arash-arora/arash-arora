@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash Arora</h1>
-<h3 align="center">A passionate frontend developer | ethical hacker from India</h3>
+<h3 align="center">A passionate fullstack developer | ethical hacker from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arash-arora&label=Profile%20views&color=0e75b6&style=flat" alt="arash-arora" /> </p>
 
@@ -7,17 +7,21 @@
  -->
 - 🔭 I’m currently working on [My Portfolio Website](https://arasharora.com)
 
-- 🌱 I’m currently learning **NodeJS, Penetration Testing**
+- 🌱 I’m currently learning **IoT, NodeJS, Penetration Testing**
 
-- 👯 Recently I developed [Hulu Clone](https://arash-hulu.vercel.app)
+- 🧑‍💻 Lately, one of my articles has been published on freecodecamp on the topic [**NodeJS**](https://www.freecodecamp.org/news/introduction-to-nodejs/)
 
-- 🤝 I even developed [Airbnb Clone](https://arash-airbnb-demo.vercel.app)
+- 👯 I recently developed a web application to find suitable colleges based on fees, location, and rank [College Finder](https://college-finder-arash.vercel.app/)
+
+- ⚒️ This web application is basically a dashboard which showcases the detailed IPL information of 10 years. [IPL Dashboard](https://ipl-wine.vercel.app/)
+
+- 🤝 One of my best projects is none other than [Airbnb Clone](https://arash-airbnb-demo.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://arasharora.com/work](https://arasharora.com/work)
 
 - 📝 I regularly write articles on [https://arasharora2001.medium.com/](https://arasharora2001.medium.com/)
 
-- 💬 Ask me about **React, NextJS, C, C++, Python**
+- 💬 Ask me about **NodeJS, MongoDB, Java, React, NextJS, C++, Python**
 
 - 📫 How to reach me **arasharora2001@gmail.com**
 
