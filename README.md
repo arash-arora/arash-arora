@@ -42,4 +42,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arash-arora&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api?username=arash-arora&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="arash-arora" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arash-arora&theme=darkhub&margin-w=45&margin-h=25&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=arash-arora&theme=onedark_duo&border=2E343B)](https://git.io/streak-stats)
