@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://blogs.arasharora.com](https://blogs.arasharora.com)
 
-- 💬 Ask me about **react, next.js, java**
+- 💬 Ask me about **react, next.js, python**
 
 - 📫 How to reach me **arasharora2001@gmail.com**
 
